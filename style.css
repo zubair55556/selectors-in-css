@@ -1,0 +1,21 @@
+p{
+    
+    color: blue;
+    }
+
+    #para2 {
+        
+        color: red; }
+
+        li {
+            color: green;
+        }
+
+        div>span{
+            color: yellow;
+            font-size: 25px;
+        }
+        h2+p{
+            color: aqua;
+            font-size: 25px;
+        }
